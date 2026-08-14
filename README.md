@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-steelcircuits.com-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-www.steelcircuits.com-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://instagram.com/devansh999ai"><img src="https://img.shields.io/badge/Instagram-@devansh999ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=devash8011-oss&style=for-the-badge&color=blueviolet" />
 </p>
@@ -23,13 +23,7 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devash8011-oss/devash8011-oss/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
