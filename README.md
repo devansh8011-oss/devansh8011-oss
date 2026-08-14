@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-<h3 align="center">Robotics Engineer | Embedded Systems | AI Automation | Computer Vision</h3>
+<h3 align="center">🤖 AI & Robotics Engineer | AI Agents & Automation | Computer Vision | Embedded Systems</h3>
 
 <p align="center">
-  Working on semi-advanced robotics and AI-driven automation — bridging hardware (ESP32 / Arduino / Raspberry Pi) with intelligent software (Python, OpenCV, MediaPipe).
+  Building semi-advanced robotics fused with AI-driven automation — from ESP32/Arduino/Raspberry Pi hardware to intelligent AI agent workflows and computer vision systems.
 </p>
 
 <p align="center">
   <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-steelcircuits.com-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://instagram.com/devansh999ai"><img src="https://img.shields.io/badge/Instagram-@devansh999ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=devash8011-oss&style=for-the-badge&color=blueviolet" />
 </p>
 
@@ -14,10 +15,11 @@
 
 ### ⚙️ What I Work On
 
+- 🧠 **AI Agents & Automation** — building autonomous AI agent workflows with **n8n**, connecting LLMs to real-world tools and triggers for end-to-end automation
 - 🤖 **Robotics** — line-following bots, maze-solving rescue robots, delivery robots, custom PCB carrier boards
-- 🧠 **AI & Computer Vision** — OpenCV / MediaPipe based tracking, recognition and automation systems
+- 👁️ **Computer Vision** — OpenCV / MediaPipe based tracking, recognition and vision-driven automation
 - 🔌 **Embedded Systems** — ESP32, Arduino, Raspberry Pi, custom KiCad hardware designs
-- 🔁 **Automation** — Python/C++ tooling, Google Apps Script workflows
+- 🔁 **Workflow Automation** — Python/C++ tooling, Google Apps Script, n8n pipelines
 
 ---
 
