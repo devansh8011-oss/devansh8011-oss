@@ -25,13 +25,7 @@
 
 
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devash8011-oss&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -67,17 +61,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devash8011-oss&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devash8011-oss&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devash8011-oss&theme=radical&hide_border=true" />
-</p>
 
 ---
 
