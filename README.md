@@ -23,21 +23,9 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devash8011-oss/devash8011-oss/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
----
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devash8011-oss&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -80,20 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devash8011-oss&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devash8011-oss&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devash8011-oss&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect
 
 <p align="left">
   <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Website-steelcircuits.com-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
