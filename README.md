@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-www.steelcircuits.com-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-steelcircuits.com-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://instagram.com/devansh999ai"><img src="https://img.shields.io/badge/Instagram-@devansh999ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=devash8011-oss&style=for-the-badge&color=blueviolet" />
 </p>
@@ -23,9 +23,21 @@
 
 ---
 
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devash8011-oss/devash8011-oss/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
+---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devash8011-oss&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -52,6 +64,12 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+**AI Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 **Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -62,10 +80,22 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devash8011-oss&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devash8011-oss&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devash8011-oss&theme=radical&hide_border=true" />
+</p>
+
 ---
 
 ### 📫 Connect
 
 <p align="left">
   <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Website-steelcircuits.com-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://instagram.com/devansh999ai"><img src="https://img.shields.io/badge/Instagram-devansh999ai-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
