@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-steelcircuits.com-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-steelcircuits.com-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://instagram.com/devansh999ai"><img src="https://img.shields.io/badge/Instagram-@devansh999ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=devash8011-oss&style=for-the-badge&color=blueviolet" />
 </p>
@@ -22,10 +22,6 @@
 - 🔁 **Workflow Automation** — Python/C++ tooling, Google Apps Script, n8n pipelines
 
 ---
-
-
-
-
 
 ### 🛠️ Tech Stack
 
@@ -68,8 +64,9 @@
 
 ---
 
+### 📫 Connect
 
 <p align="left">
-  <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Website-steelcircuits.com-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.steelcircuits.com"><img src="https://img.shields.io/badge/Website-steelcircuits.com-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://instagram.com/devansh999ai"><img src="https://img.shields.io/badge/Instagram-devansh999ai-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
