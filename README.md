@@ -9,15 +9,16 @@
      BADGES  (replace the URLs with your real profiles)
      ============================================================ -->
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:devansh8011@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://steelcircuits.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://instagram.com/devansh999ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/devash8011-oss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<!-- profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=devash8011-oss&style=flat&color=39d353&label=profile+views" alt="profile views" />
+<!-- profile view counter (centered) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devash8011-oss&style=flat&color=39d353&label=profile+views" alt="profile views" />
+</div>
 
 ---
 
@@ -77,21 +78,24 @@ Hi, I'm **Devansh** — a robotics engineer who builds things that live between 
 `01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`
 
 <!-- ============================================================
-     NOTES — things you must set up for everything to render:
+     NOTES — WHY YOU CAN'T SEE THE ANIMATIONS YET, AND HOW TO FIX:
+
+     The contribution/snake and design images DO NOT render from a
+     file on your computer. They only appear once this README is
+     COMMITTED to the correct GitHub repo. Steps:
 
      1. FILE LOCATION: this README must go in a repo named exactly
-        "devash8011-oss" (a repo matching your username). That is
-        what makes it your profile README.
+        "devash8011-oss" (matching your username). Create it if it
+        doesn't exist, set it Public, add a README. That repo is what
+        makes it your profile README.
 
      2. SNAKE ANIMATION: create .github/workflows/snake.yml with the
-        Platane/snk action, output branch "output". Until then the
-        snake image will be broken.
+        Platane/snk action, output branch "output". Until that Action
+        runs at least once, the snake image will be broken - normal.
 
-     3. FILL IN: LinkedIn URL, email, and the (#) repo links above.
+     3. STAT CARDS / TROPHY / TYPING BANNER: these render as soon as
+        the README is live on GitHub. If a card looks empty at first,
+        give the vercel service a minute and refresh.
 
-     4. Her radar charts and 3D isometric calendar came from the
-        "metrics" action generating SVG assets. I swapped those for
-        the auto-generating cards above so this works out of the box.
-        Want the exact 3D calendar + radar look? Say so and I'll add
-        the metrics workflow config.
+     4. FILL IN: the (#) repo links above.
      ============================================================ -->
