@@ -17,9 +17,10 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: devash8011-oss
+          github_user_name: devansh8011-oss
           outputs: |
-            dist/snake.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
