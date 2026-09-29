@@ -1,20 +1,20 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Devansh Grover — Founder @ Steel and Stack | Full-Stack &amp; Robotics Engineer Profile Banner" width="100%">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="./light.svg">
+<img src="./dark.svg" alt="Devansh Grover — Founder @ Steel and Stack | Full-Stack &amp; Robotics Engineer Profile Banner" width="100%">
+</picture>
 
-  <br/>
-  <br/>
+<br/>
+<br/>
 
-  [![Startup](https://img.shields.io/badge/Startup-steelandstack.com-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A)](https://www.steelandstack.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-steelcircuits.com-A855F7?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A)](https://www.steelcircuits.com)
-  [![GitHub followers](https://img.shields.io/github/followers/devansh8011-oss?label=Follow%20%40devansh8011-oss&style=for-the-badge&color=22D3EE&labelColor=0F172A)](https://github.com/devansh8011-oss)
-  [![Instagram](https://img.shields.io/badge/Instagram-devansh999ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F172A)](https://instagram.com/devansh999ai)
-  [![Email](https://img.shields.io/badge/Contact-devansh8011%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:devansh8011@gmail.com)
-  <img src="https://komarev.com/ghpvc/?username=devansh8011-oss&style=for-the-badge&color=22D3EE&labelColor=0F172A" />
+[![Startup](https://img.shields.io/badge/Startup-steelandstack.com-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A)](https://www.steelandstack.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-steelcircuits.com-A855F7?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A)](https://www.steelcircuits.com)
+[![GitHub followers](https://img.shields.io/github/followers/devansh8011-oss?label=Follow%20%40devansh8011-oss&style=for-the-badge&color=22D3EE&labelColor=0F172A)](https://github.com/devansh8011-oss)
+[![Instagram](https://img.shields.io/badge/Instagram-devansh999ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F172A)](https://instagram.com/devansh999ai)
+[![Email](https://img.shields.io/badge/Contact-devansh8011%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:devansh8011@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=devansh8011-oss&style=for-the-badge&color=22D3EE&labelColor=0F172A" />
 
 </div>
 
@@ -91,36 +91,17 @@ I am **Devansh Grover**, Founder at **[Steel and Stack](https://www.steelandstac
 
 ---
 
-### 📊 Telemetry & GitHub Activity
+<h2 align="center">📊 GitHub Contributions &amp; Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh8011-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38BDF8&icon_color=A855F7&text_color=94A3B8" alt="Devansh's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh8011-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38BDF8&text_color=94A3B8" alt="Devansh's Top Languages" width="48%">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+<img src="./github-snake-dark.svg" alt="Devansh's GitHub Contribution Snake" width="100%">
+</picture>
+
 </div>
-
----
-
-<h2 align="center">📊 GitHub Contributions</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/devansh8011-oss/github-snake/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/devansh8011-oss/github-snake/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/devansh8011-oss/github-snake/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</p>
 
 ---
 
