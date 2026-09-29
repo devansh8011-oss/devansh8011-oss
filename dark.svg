@@ -73,7 +73,7 @@
   <rect x="0" y="0" width="1180" height="610" fill="url(#dark-bg-glow1)"/>
   <rect x="0" y="0" width="1180" height="610" fill="url(#dark-bg-glow2)"/>
 
-  <!-- Subtle Matrix Grid Dots -->
+  <!-- Matrix Dots -->
   <g fill="#1E293B" opacity="0.35">
     <circle cx="80" cy="180" r="1"/><circle cx="160" cy="180" r="1"/><circle cx="240" cy="180" r="1"/><circle cx="320" cy="180" r="1"/><circle cx="400" cy="180" r="1"/>
     <circle cx="80" cy="280" r="1"/><circle cx="160" cy="280" r="1"/><circle cx="240" cy="280" r="1"/><circle cx="320" cy="280" r="1"/><circle cx="400" cy="280" r="1"/>
@@ -84,7 +84,7 @@
     <circle cx="520" cy="460" r="1"/><circle cx="620" cy="460" r="1"/><circle cx="720" cy="460" r="1"/><circle cx="820" cy="460" r="1"/><circle cx="920" cy="460" r="1"/><circle cx="1020" cy="460" r="1"/><circle cx="1120" cy="460" r="1"/>
   </g>
 
-  <!-- ================= OUTER CHROME FRAME ================= -->
+  <!-- Outer Chrome Frame -->
   <rect x="12" y="12" width="1156" height="586" rx="20" fill="none" stroke="url(#dark-border-gradient)" stroke-width="1.2" opacity="0.8"/>
   <rect x="13" y="13" width="1154" height="584" rx="19" fill="#0A0F1D" fill-opacity="0.6"/>
 
@@ -92,49 +92,45 @@
   <path d="M 13 32 Q 13 13 32 13 L 1148 13 Q 1167 13 1167 32 L 1167 52 L 13 52 Z" fill="#0F172A" fill-opacity="0.85"/>
   <line x1="13" y1="52" x2="1167" y2="52" stroke="#1E293B" stroke-width="1"/>
 
-  <!-- Terminal Window Controls (Traffic Lights) -->
+  <!-- Window Controls -->
   <circle cx="36" cy="32" r="5" fill="#EF4444"/>
   <circle cx="53" cy="32" r="5" fill="#F59E0B"/>
   <circle cx="70" cy="32" r="5" fill="#10B981"/>
 
-  <!-- Header Prompt Identity -->
+  <!-- Terminal Host Prompt -->
   <g class="mono" font-size="11.5" font-weight="600">
     <text x="96" y="36" fill="#38BDF8">devansh<tspan fill="#64748B">@</tspan><tspan fill="#A855F7">steelstack</tspan><tspan fill="#64748B">:~ [</tspan><tspan fill="#34D399"> ONLINE </tspan><tspan fill="#64748B">]</tspan></text>
   </g>
 
-  <!-- Top Navigation & Telemetry -->
+  <!-- Telemetry Bar -->
   <g class="mono" font-size="11" fill="#64748B" text-anchor="end">
     <text x="1145" y="36">sys_uptime: <tspan fill="#38BDF8">99.98%</tspan> &#183; kernel: <tspan fill="#A855F7">v4.2.0-lts</tspan> &#183; status: <tspan fill="#34D399">&#9679; ACTIVE</tspan></text>
   </g>
 
   <!-- ================= LEFT COLUMN: VISUAL / IDENTITY ================= -->
-  <!-- Left Panel Glass Card (width 410, height 514) -->
   <rect x="30" y="68" width="410" height="514" rx="14" fill="#0F172A" fill-opacity="0.45" stroke="url(#dark-panel-border)" stroke-width="1"/>
   
-  <!-- Left Header -->
   <g class="mono">
     <text x="48" y="93" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="1.5">// IDENTITY.TELEMETRY</text>
     <text x="422" y="93" font-size="10" font-weight="600" fill="#64748B" text-anchor="end">[ VISUAL.MAP ]</text>
   </g>
 
-  <!-- ASCII Portrait Display Container (x=48, y=106, w=374, h=336) -->
+  <!-- ASCII Portrait Container -->
   <rect x="48" y="106" width="374" height="336" rx="10" fill="#060A14" fill-opacity="0.9" stroke="#1E293B" stroke-width="1.2"/>
   
-  <!-- Corner Brackets (HUD overlay) -->
+  <!-- Corner Brackets -->
   <path d="M 52 120 L 52 110 L 62 110" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.8"/>
   <path d="M 418 120 L 418 110 L 408 110" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.8"/>
   <path d="M 52 428 L 52 438 L 62 438" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.8"/>
   <path d="M 418 428 L 418 438 L 408 438" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.8"/>
 
-  <!-- ASCII Portrait Content with SMIL Staggered Glow -->
+  <!-- Character Portrait -->
   <g clip-path="url(#portrait-clip)">
-    <!-- Fine Scanlines Background -->
     <pattern id="dark-scan-pat" width="100" height="4" patternUnits="userSpaceOnUse">
       <line x1="0" y1="0" x2="100" y2="0" stroke="#000000" stroke-width="1.2" opacity="0.35"/>
     </pattern>
     <rect x="48" y="106" width="374" height="336" fill="url(#dark-scan-pat)" pointer-events="none"/>
 
-    <!-- Rendered Character Portrait -->
     <text class="ascii-text">
         <tspan x="235" y="124.0">                  =+**######****###**                 </tspan>
         <tspan x="235" y="132.5">               *#######################*+             </tspan>
@@ -176,7 +172,7 @@
       <animate attributeName="opacity" values="0.9;1;0.93;1;0.9" dur="4.5s" repeatCount="indefinite"/>
     </text>
 
-    <!-- Animated Scanline Sweep (SMIL) -->
+    <!-- Scanline Sweep -->
     <rect x="48" y="106" width="374" height="6" fill="url(#scanline-gradient)" opacity="0.45">
       <animate attributeName="y" values="100;436;100" dur="5.5s" repeatCount="indefinite" ease="linear"/>
     </rect>
@@ -184,10 +180,8 @@
 
   <!-- Left Identity Details & Motto -->
   <g class="mono">
-    <!-- Command Prompt Line -->
     <text x="48" y="462" font-size="11" font-weight="600" fill="#64748B">~/steel-stack <tspan fill="#38BDF8">$</tspan> <tspan fill="#E2E8F0">./engineer.sh --live</tspan></text>
     
-    <!-- Hardware & Autonomous Systems Telemetry -->
     <circle cx="54" cy="486" r="3.5" fill="#10B981">
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
     </circle>
@@ -204,39 +198,35 @@
   </g>
 
   <!-- ================= RIGHT COLUMN: SYSTEM.INFO ================= -->
-  <!-- Right Panel Glass Card (width 696, height 514) -->
   <rect x="454" y="68" width="696" height="514" rx="14" fill="#0F172A" fill-opacity="0.45" stroke="url(#dark-panel-border)" stroke-width="1"/>
 
-  <!-- Right Terminal Header -->
   <g class="mono">
     <text x="476" y="93" font-size="11" font-weight="600" fill="#38BDF8">devansh@steelstack:~$ <tspan fill="#F8FAFC">./profile.sh --inspect</tspan></text>
     <text x="1130" y="93" font-size="10" font-weight="600" fill="#64748B" text-anchor="end">SYSTEM.INFO // v4.2</text>
   </g>
   <line x1="454" y1="106" x2="1150" y2="106" stroke="#1E293B" stroke-width="1"/>
 
-  <!-- Profile Rows: Label & Value aligned -->
   <!-- Row 1: NAME -->
   <text x="476" y="136" class="label-col">&gt; NAME</text>
   <text x="590" y="136" class="mono" font-size="17" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">Devansh Grover</text>
   <text x="760" y="136" class="mono" font-size="11" fill="#34D399" font-weight="600">[VERIFIED BUILDER]</text>
 
-  <!-- Row 2: TITLE -->
+  <!-- Row 2: TITLE with steelandstack.com -->
   <text x="476" y="164" class="label-col">&gt; TITLE</text>
-  <text x="590" y="164" class="val-text" font-weight="600" fill="#38BDF8">Founder <tspan fill="#64748B">@</tspan> <tspan fill="#A855F7">Steel and Stack</tspan></text>
+  <text x="590" y="164" class="val-text" font-weight="600" fill="#38BDF8">Founder <tspan fill="#64748B">@</tspan> <tspan fill="#A855F7">Steel and Stack</tspan> <tspan fill="#22D3EE" font-size="11.5">[steelandstack.com]</tspan></text>
 
-  <!-- Row 3: ROLES (Reliable Display + Blinking Cursor) -->
+  <!-- Row 3: ROLES -->
   <text x="476" y="193" class="label-col">&gt; ROLES</text>
   <g class="mono" font-size="13" font-weight="600">
     <text x="590" y="193" fill="#22D3EE">Full-Stack Engineer <tspan fill="#64748B">&#183;</tspan> <tspan fill="#A855F7">AI/ML Systems</tspan> <tspan fill="#64748B">&#183;</tspan> <tspan fill="#34D399">Robotics</tspan></text>
   </g>
-  <!-- Blinking Cursor -->
   <rect x="995" y="180" width="7" height="14" fill="#38BDF8" rx="1">
     <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
   </rect>
 
   <!-- Row 4: STATUS -->
   <text x="476" y="222" class="label-col">&gt; STATUS</text>
-  <text x="590" y="222" class="val-text">Student <tspan fill="#64748B">@</tspan> DPS Indirapuram &#183; Builder</text>
+  <text x="590" y="222" class="val-text">Student <tspan fill="#64748B">@</tspan> DPS Indirapuram &#183; Founder</text>
 
   <!-- Row 5: LOCATION -->
   <text x="476" y="250" class="label-col">&gt; LOCATION</text>
@@ -255,63 +245,49 @@
 
   <!-- Row 8: TECH STACK PILLS -->
   <text x="476" y="348" class="label-col">&gt; STACK</text>
-
-  <!-- Pills Row 1: Languages & Core Frameworks -->
   <g class="mono" font-size="11" font-weight="600">
-    <!-- C++ -->
     <rect x="590" y="335" width="58" height="24" rx="5" fill="url(#pill-grad)" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="600" cy="347" r="2.5" fill="#38BDF8"/>
     <text x="608" y="351" fill="#F1F5F9">C++</text>
 
-    <!-- Python -->
     <rect x="656" y="335" width="72" height="24" rx="5" fill="url(#pill-grad)" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="666" cy="347" r="2.5" fill="#38BDF8"/>
     <text x="674" y="351" fill="#F1F5F9">Python</text>
 
-    <!-- React 19 -->
     <rect x="736" y="335" width="82" height="24" rx="5" fill="url(#pill-grad)" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="746" cy="347" r="2.5" fill="#22D3EE"/>
     <text x="754" y="351" fill="#F1F5F9">React 19</text>
 
-    <!-- Node.js -->
     <rect x="826" y="335" width="76" height="24" rx="5" fill="url(#pill-grad)" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="836" cy="347" r="2.5" fill="#34D399"/>
     <text x="844" y="351" fill="#F1F5F9">Node.js</text>
 
-    <!-- Tailwind -->
     <rect x="910" y="335" width="82" height="24" rx="5" fill="url(#pill-grad)" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="920" cy="347" r="2.5" fill="#38BDF8"/>
     <text x="928" y="351" fill="#F1F5F9">Tailwind</text>
 
-    <!-- JavaScript -->
     <rect x="1000" y="335" width="94" height="24" rx="5" fill="url(#pill-grad)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="1010" cy="347" r="2.5" fill="#F59E0B"/>
     <text x="1018" y="351" fill="#F1F5F9">JavaScript</text>
   </g>
 
-  <!-- Pills Row 2: Cloud, Embedded & AI Tools -->
   <g class="mono" font-size="11" font-weight="600">
-    <!-- ROS & Embedded -->
     <rect x="590" y="367" width="118" height="24" rx="5" fill="url(#pill-grad)" stroke="#A855F7" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="600" cy="379" r="2.5" fill="#A855F7"/>
     <text x="608" y="383" fill="#F1F5F9">ROS &#183; Embedded</text>
 
-    <!-- Firebase -->
     <rect x="716" y="367" width="78" height="24" rx="5" fill="url(#pill-grad)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="726" cy="379" r="2.5" fill="#F59E0B"/>
     <text x="734" y="383" fill="#F1F5F9">Firebase</text>
 
-    <!-- Supabase -->
     <rect x="802" y="367" width="86" height="24" rx="5" fill="url(#pill-grad)" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="812" cy="379" r="2.5" fill="#34D399"/>
     <text x="820" y="383" fill="#F1F5F9">Supabase</text>
 
-    <!-- Google Cloud -->
     <rect x="896" y="367" width="102" height="24" rx="5" fill="url(#pill-grad)" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="906" cy="379" r="2.5" fill="#38BDF8"/>
     <text x="914" y="383" fill="#F1F5F9">Google Cloud</text>
 
-    <!-- AWS / Azure -->
     <rect x="1006" y="367" width="94" height="24" rx="5" fill="url(#pill-grad)" stroke="#818CF8" stroke-width="0.8" stroke-opacity="0.4"/>
     <circle cx="1016" cy="379" r="2.5" fill="#818CF8"/>
     <text x="1024" y="383" fill="#F1F5F9">AWS &#183; Azure</text>
@@ -320,26 +296,20 @@
   <!-- Section Separator Line -->
   <line x1="476" y1="403" x2="1130" y2="403" stroke="#1E293B" stroke-width="1"/>
 
-  <!-- Row 9: SELECTED PROJECTS (Zero Overlap Balanced Layout) -->
+  <!-- Row 9: SELECTED PROJECTS -->
   <text x="476" y="426" class="label-col">&gt; PROJECTS</text>
-
-  <!-- Project 1: SteelCircuits -->
   <g class="mono">
     <circle cx="594" cy="425" r="3" fill="#38BDF8"/>
     <text x="606" y="429" font-size="12.5" font-weight="700" fill="#38BDF8">SteelCircuits</text>
     <text x="710" y="429" font-size="11" fill="#64748B">[steelcircuits.com]</text>
     <text x="840" y="429" font-size="12" fill="#94A3B8">&#8594; React 19 Systems Hub</text>
   </g>
-
-  <!-- Project 2: Dream College -->
   <g class="mono">
     <circle cx="594" cy="452" r="3" fill="#A855F7"/>
     <text x="606" y="456" font-size="12.5" font-weight="700" fill="#A855F7">Dream College</text>
     <text x="720" y="456" font-size="11" fill="#64748B">[dreamcollege.co.in]</text>
     <text x="860" y="456" font-size="12" fill="#94A3B8">&#8594; AI Student Guidance Platform</text>
   </g>
-
-  <!-- Project 3: CocoaDotts -->
   <g class="mono">
     <circle cx="594" cy="479" r="3" fill="#34D399"/>
     <text x="606" y="483" font-size="12.5" font-weight="700" fill="#34D399">CocoaDotts</text>
@@ -350,25 +320,25 @@
   <!-- Section Separator Line -->
   <line x1="476" y1="504" x2="1130" y2="504" stroke="#1E293B" stroke-width="1"/>
 
-  <!-- Row 10: CONNECT & COMM CHANNELS -->
+  <!-- Row 10: CONNECT & COMM CHANNELS (Including Startup Link) -->
   <text x="476" y="534" class="label-col">&gt; CONNECT</text>
-  <g class="mono" font-size="12" font-weight="600">
-    <!-- GitHub Link Badge -->
-    <rect x="590" y="520" width="168" height="26" rx="5" fill="#1E293B" fill-opacity="0.6" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.3"/>
-    <text x="602" y="537" fill="#64748B">gh: <tspan fill="#38BDF8">devansh8011-oss</tspan></text>
+  <g class="mono" font-size="11.5" font-weight="600">
+    <!-- Startup Badge -->
+    <rect x="590" y="520" width="180" height="26" rx="5" fill="#1E293B" fill-opacity="0.7" stroke="#38BDF8" stroke-width="0.9" stroke-opacity="0.4"/>
+    <text x="600" y="537" fill="#64748B">org: <tspan fill="#38BDF8">steelandstack.com</tspan></text>
 
     <!-- Web Link Badge -->
-    <rect x="768" y="520" width="168" height="26" rx="5" fill="#1E293B" fill-opacity="0.6" stroke="#A855F7" stroke-width="0.8" stroke-opacity="0.3"/>
-    <text x="780" y="537" fill="#64748B">web: <tspan fill="#A855F7">steelcircuits.com</tspan></text>
+    <rect x="778" y="520" width="168" height="26" rx="5" fill="#1E293B" fill-opacity="0.7" stroke="#A855F7" stroke-width="0.9" stroke-opacity="0.4"/>
+    <text x="788" y="537" fill="#64748B">web: <tspan fill="#A855F7">steelcircuits.com</tspan></text>
 
-    <!-- Email Badge -->
-    <rect x="946" y="520" width="184" height="26" rx="5" fill="#1E293B" fill-opacity="0.6" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.3"/>
-    <text x="958" y="537" fill="#64748B">mail: <tspan fill="#34D399">devansh8011</tspan></text>
+    <!-- GitHub Badge -->
+    <rect x="954" y="520" width="176" height="26" rx="5" fill="#1E293B" fill-opacity="0.7" stroke="#34D399" stroke-width="0.9" stroke-opacity="0.4"/>
+    <text x="964" y="537" fill="#64748B">gh: <tspan fill="#34D399">devansh8011-oss</tspan></text>
   </g>
 
   <!-- Status Bar on Bottom Right Panel -->
   <g class="mono" font-size="10" fill="#475569">
-    <text x="590" y="566">&#9632; STACK: C++ / TS / ROS &#183; ORG: STEEL &amp; STACK &#183; AGY COMPLIANT &#183; SECURE</text>
+    <text x="590" y="566">&#9632; STACK: C++ / TS / ROS &#183; ORG: STEEL &amp; STACK (steelandstack.com) &#183; AGY COMPLIANT &#183; SECURE</text>
     <text x="1130" y="566" text-anchor="end" fill="#34D399">READY &#9679;</text>
   </g>
 </svg>

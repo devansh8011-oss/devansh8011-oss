@@ -9,8 +9,9 @@
   <br/>
   <br/>
 
-  [![GitHub followers](https://img.shields.io/github/followers/devansh8011-oss?label=Follow%20%40devansh8011-oss&style=for-the-badge&color=22D3EE&labelColor=0F172A)](https://github.com/devansh8011-oss)
+  [![Startup](https://img.shields.io/badge/Startup-steelandstack.com-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A)](https://www.steelandstack.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-steelcircuits.com-A855F7?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A)](https://www.steelcircuits.com)
+  [![GitHub followers](https://img.shields.io/github/followers/devansh8011-oss?label=Follow%20%40devansh8011-oss&style=for-the-badge&color=22D3EE&labelColor=0F172A)](https://github.com/devansh8011-oss)
   [![Instagram](https://img.shields.io/badge/Instagram-devansh999ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F172A)](https://instagram.com/devansh999ai)
   [![Email](https://img.shields.io/badge/Contact-devansh8011%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:devansh8011@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=devansh8011-oss&style=for-the-badge&color=22D3EE&labelColor=0F172A" />
@@ -23,8 +24,9 @@
 
 > *"Engineering the future of tech."*
 
-I am **Devansh Grover**, Founder at **Steel and Stack**, student at **DPS Indirapuram (Delhi)**, and a systems builder with 4+ years of hands-on experience bridging high-level web architecture, autonomous robotics hardware, and generative AI systems.
+I am **Devansh Grover**, Founder at **[Steel and Stack](https://www.steelandstack.com)** (`steelandstack.com`), student at **DPS Indirapuram (Delhi)**, and a systems builder with 4+ years of hands-on experience bridging high-level web architecture, autonomous robotics hardware, and generative AI systems.
 
+- 🏢 **Startup**: **[Steel and Stack](https://www.steelandstack.com)** — Building next-generation digital products, AI automation pipelines, and engineering infrastructure.
 - 🚀 **Currently Building**: Scalable web platforms, autonomous robotics controllers, and intelligent workflow automation systems.
 - 🛠️ **Core Specialties**: Full-Stack Development (React 19 / Node.js), Embedded C++ & ROS, Cloud Infrastructure, and AI-driven client solutions.
 - 📍 **Base**: Delhi, India.
@@ -35,15 +37,25 @@ I am **Devansh Grover**, Founder at **Steel and Stack**, student at **DPS Indira
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Steel and Stack</h3>
+      <p align="center"><b>Flagship Startup &amp; Engineering Lab</b></p>
+      <p>Tech innovation studio and development firm engineering end-to-end web architecture, customized automation workflows, and specialized technical systems.</p>
+      <p align="center">
+        <a href="https://www.steelandstack.com"><b>Visit steelandstack.com »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">⚡ SteelCircuits</h3>
-      <p align="center"><b>Flagship Engineering Portfolio</b></p>
+      <p align="center"><b>Personal Engineering Hub &amp; Portfolio</b></p>
       <p>High-performance personal engineering hub and systems showcase built natively with <b>React 19</b>, modern component architecture, and responsive glassmorphism interfaces.</p>
       <p align="center">
         <a href="https://www.steelcircuits.com"><b>Visit steelcircuits.com »</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🎓 Dream College</h3>
       <p align="center"><b>AI Academic &amp; Counseling Platform</b></p>
       <p>AI-driven counseling platform that equips students with personalized guidance, college trajectory roadmaps, and intelligent student pathway discovery tools.</p>
@@ -51,7 +63,7 @@ I am **Devansh Grover**, Founder at **Steel and Stack**, student at **DPS Indira
         <a href="https://www.dreamcollege.co.in"><b>Visit dreamcollege.co.in »</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🍰 CocoaDotts</h3>
       <p align="center"><b>Artisan Bakery Commerce Engine</b></p>
       <p>Custom digital ordering platform and business infrastructure built for a bespoke confectionery and artisan bakery, handling real-time custom cake workflows and sales.</p>
@@ -91,14 +103,14 @@ I am **Devansh Grover**, Founder at **Steel and Stack**, student at **DPS Indira
 ### 📡 Terminal Dispatch & Connect
 
 ```bash
-devansh@steelstack:~$ curl -s https://www.steelcircuits.com/connect
+devansh@steelstack:~$ curl -s https://www.steelandstack.com/connect
 ```
 
+- 🏢 **Startup / Venture**: [steelandstack.com](https://www.steelandstack.com)
 - 🌐 **Portfolio**: [steelcircuits.com](https://www.steelcircuits.com)
 - 🐙 **GitHub**: [@devansh8011-oss](https://github.com/devansh8011-oss)
 - 📸 **Instagram**: [@devansh999ai](https://instagram.com/devansh999ai)
 - 📧 **Direct Email**: [devansh8011@gmail.com](mailto:devansh8011@gmail.com)
-- 🏢 **Organization**: Founder @ **Steel and Stack**
 - 🏫 **School**: DPS Indirapuram, Delhi
 
 <div align="center">
