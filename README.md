@@ -91,14 +91,14 @@ I am **Devansh Grover**, Founder at **[Steel and Stack](https://www.steelandstac
 
 ---
 
-<h2 align="center">📊 GitHub Contributions &amp; Activity</h2>
+<h2 align="center">📊 GitHub Contributions</h2>
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-<img src="./github-snake-dark.svg" alt="Devansh's GitHub Contribution Snake" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devansh8011-oss/github-snake/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devansh8011-oss/github-snake/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/devansh8011-oss/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
 </picture>
 
 </div>
