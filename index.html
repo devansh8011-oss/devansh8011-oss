@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Profile Banner Preview - Devansh Grover</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 40px;
+      background: #0b0f19;
+      color: #e2e8f0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+    }
+    .container {
+      max-width: 1180px;
+      width: 100%;
+    }
+    h2 {
+      margin-bottom: 12px;
+      font-weight: 600;
+      color: #38bdf8;
+    }
+    .preview-box {
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 20px 40px -15px rgba(0,0,0,0.5);
+    }
+    .light-wrap {
+      background: #f1f5f9;
+      padding: 20px;
+      border-radius: 24px;
+    }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Devansh Grover - GitHub Profile Banner Test Matrix</h1>
+
+  <div class="container">
+    <h2>1. Dark Mode Banner (`dark.svg`)</h2>
+    <div class="preview-box">
+      <img src="dark.svg" alt="Dark Mode Banner">
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>2. Light Mode Banner (`light.svg`)</h2>
+    <div class="preview-box light-wrap">
+      <img src="light.svg" alt="Light Mode Banner">
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>3. GitHub Dynamic &lt;picture&gt; Mode Switching (Simulated)</h2>
+    <div class="preview-box">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="light.svg">
+        <img src="dark.svg" alt="Adaptive Banner">
+      </picture>
+    </div>
+  </div>
+</body>
+</html>
