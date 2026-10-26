@@ -68,7 +68,7 @@
     </style>
   </defs>
 
-  <!-- ================= CANVAS BACKGROUND ================= -->
+  <!-- Canvas Background -->
   <rect x="0" y="0" width="1180" height="610" fill="#F8FAFC"/>
   <rect x="0" y="0" width="1180" height="610" fill="url(#light-bg-glow1)"/>
   <rect x="0" y="0" width="1180" height="610" fill="url(#light-bg-glow2)"/>
@@ -88,16 +88,14 @@
   <rect x="12" y="12" width="1156" height="586" rx="20" fill="none" stroke="url(#light-border-gradient)" stroke-width="1.2" opacity="0.9"/>
   <rect x="13" y="13" width="1154" height="584" rx="19" fill="#FFFFFF" fill-opacity="0.75"/>
 
-  <!-- Top Terminal Header Bar -->
+  <!-- Top Header Bar -->
   <path d="M 13 32 Q 13 13 32 13 L 1148 13 Q 1167 13 1167 32 L 1167 52 L 13 52 Z" fill="#F1F5F9" fill-opacity="0.9"/>
   <line x1="13" y1="52" x2="1167" y2="52" stroke="#CBD5E1" stroke-width="1"/>
 
-  <!-- Controls -->
   <circle cx="36" cy="32" r="5" fill="#EF4444"/>
   <circle cx="53" cy="32" r="5" fill="#F59E0B"/>
   <circle cx="70" cy="32" r="5" fill="#10B981"/>
 
-  <!-- Header Prompt Identity -->
   <g class="mono" font-size="11.5" font-weight="600">
     <text x="96" y="36" fill="#0284C7">devansh<tspan fill="#64748B">@</tspan><tspan fill="#7C3AED">steelstack</tspan><tspan fill="#64748B">:~ [</tspan><tspan fill="#059669"> ONLINE </tspan><tspan fill="#64748B">]</tspan></text>
   </g>
@@ -173,7 +171,7 @@
     </rect>
   </g>
 
-  <!-- Left Identity Details & Motto -->
+  <!-- Left Identity Details -->
   <g class="mono">
     <text x="48" y="462" font-size="11" font-weight="600" fill="#64748B">~/steel-stack <tspan fill="#0284C7">$</tspan> <tspan fill="#1E293B">./engineer.sh --live</tspan></text>
     
@@ -290,31 +288,37 @@
   <!-- Section Separator Line -->
   <line x1="476" y1="403" x2="1130" y2="403" stroke="#E2E8F0" stroke-width="1"/>
 
-  <!-- Row 9: SELECTED PROJECTS -->
+  <!-- Row 9: SELECTED PROJECTS (Smart Warehouse, AI Lab Monitor, CocoaDotts) -->
   <text x="476" y="426" class="label-col-light">&gt; PROJECTS</text>
+  
+  <!-- Project 1: Smart Warehouse -->
   <g class="mono">
     <circle cx="594" cy="425" r="3" fill="#0284C7"/>
-    <text x="606" y="429" font-size="12.5" font-weight="700" fill="#0284C7">SteelCircuits</text>
-    <text x="710" y="429" font-size="11" fill="#64748B">[steelcircuits.com]</text>
-    <text x="840" y="429" font-size="12" fill="#475569">&#8594; React 19 Systems Hub</text>
+    <text x="606" y="429" font-size="12" font-weight="700" fill="#0284C7">Smart Warehouse</text>
+    <text x="734" y="429" font-size="11" fill="#64748B">[warehouse-xi-ten.vercel.app]</text>
+    <text x="946" y="429" font-size="11.5" fill="#475569">&#8594; IoT Telemetry Twin</text>
   </g>
+
+  <!-- Project 2: AI Lab Monitor -->
   <g class="mono">
     <circle cx="594" cy="452" r="3" fill="#7C3AED"/>
-    <text x="606" y="456" font-size="12.5" font-weight="700" fill="#7C3AED">Dream College</text>
-    <text x="720" y="456" font-size="11" fill="#64748B">[dreamcollege.co.in]</text>
-    <text x="860" y="456" font-size="12" fill="#475569">&#8594; AI Student Guidance Platform</text>
+    <text x="606" y="456" font-size="12" font-weight="700" fill="#7C3AED">AI Lab Monitor</text>
+    <text x="724" y="456" font-size="11" fill="#64748B">[github: ai-lab-monitor]</text>
+    <text x="906" y="456" font-size="11.5" fill="#475569">&#8594; Vision Focus Tracker</text>
   </g>
+
+  <!-- Project 3: CocoaDotts -->
   <g class="mono">
     <circle cx="594" cy="479" r="3" fill="#059669"/>
-    <text x="606" y="483" font-size="12.5" font-weight="700" fill="#059669">CocoaDotts</text>
-    <text x="702" y="483" font-size="11" fill="#64748B">[cocoadotts.com]</text>
-    <text x="830" y="483" font-size="12" fill="#475569">&#8594; Artisan Bakery Commerce Engine</text>
+    <text x="606" y="483" font-size="12" font-weight="700" fill="#059669">CocoaDotts</text>
+    <text x="700" y="483" font-size="11" fill="#64748B">[cocoadotts.com]</text>
+    <text x="828" y="483" font-size="11.5" fill="#475569">&#8594; Artisan Bakery Commerce</text>
   </g>
 
   <!-- Section Separator Line -->
   <line x1="476" y1="504" x2="1130" y2="504" stroke="#E2E8F0" stroke-width="1"/>
 
-  <!-- Row 10: CONNECT & COMM CHANNELS (Including Startup Link) -->
+  <!-- Row 10: CONNECT & COMM CHANNELS -->
   <text x="476" y="534" class="label-col-light">&gt; CONNECT</text>
   <g class="mono" font-size="11.5" font-weight="600">
     <!-- Startup Badge -->
@@ -332,7 +336,7 @@
 
   <!-- Status Bar on Bottom Right Panel -->
   <g class="mono" font-size="10" fill="#64748B">
-    <text x="590" y="566">&#9632; STACK: C++ / TS / ROS &#183; ORG: STEEL &amp; STACK (steelandstack.com) &#183; AGY COMPLIANT &#183; SECURE</text>
+    <text x="590" y="566">&#9632; STACK: C++ / TS / ROS &#183; ORG: STEEL &amp; STACK (steelandstack.com) &#183; SECURE</text>
     <text x="1130" y="566" text-anchor="end" fill="#059669">READY &#9679;</text>
   </g>
 </svg>
