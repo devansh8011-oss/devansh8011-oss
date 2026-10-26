@@ -78,20 +78,6 @@ I am **Devansh Grover**, Founder at **[Steel and Stack](https://www.steelandstac
 
 ---
 
-### 📂 Featured Repositories & Engineering Highlights
-
-| Repository | Focus & Technical Description | Core Stack |
-| :--- | :--- | :--- |
-| **[`smart-warehouse-monitoring-system`](https://github.com/devansh8011-oss/smart-warehouse-monitoring-system)** | Visual digital-twin simulation modeling agricultural cold-storage environments with dynamic thermal regulation, HVAC fans, and multi-sensor telemetry. | `JavaScript` `SVG` `CSS3` `Vercel` |
-| **[`ai-lab-monitor`](https://github.com/devansh8011-oss/ai-lab-monitor)** | Edge computer vision attendance and focus tracking engine for computer labs, generating automated presence and attention audits. | `Python` `OpenCV` `MediaPipe` `CSV Engine` |
-| **[`FLF-TECHNOXIAN`](https://github.com/devansh8011-oss/FLF-TECHNOXIAN)** | High-speed competitive line-follower firmware with PID closed-loop control, 16-channel analog sensor array, TB6612FNG motor driver, and 90° cornering deceleration. | `C++` `Embedded` `PID Control` `Sensors` |
-| **[`Nexus-Delivery-Robot`](https://github.com/devansh8011-oss/Nexus-Delivery-Robot)** | Autonomous indoor transit and delivery robot platform integrating obstacle avoidance sensor fusion, motor control, and navigation routines. | `C++` `Arduino` `Robotics` `Hardware` |
-| **[`n8n`](https://github.com/devansh8011-oss/n8n)** | Suite of six production AI automation workflows orchestrating Telegram bots, Gemini/Groq LLM agents, and Google Workspace triggers. | `n8n` `AI Agents` `LLMs` `Webhooks` |
-| **[`steel-and-stack`](https://github.com/devansh8011-oss/steel-and-stack)** | Official codebase for Steel & Stack—a technology studio developing full-stack web platforms and connected IoT hardware systems. | `TypeScript` `React` `Tailwind` `Node.js` |
-| **[`SteelCircuits`](https://github.com/devansh8011-oss/SteelCircuits)** | Interactive engineering portfolio hub showcasing robotics hardware, embedded firmware, and modern web applications built with React 19. | `React 19` `Vite` `Tailwind CSS` |
-
----
-
 ### 💻 Technical Arsenal
 
 ```ini
